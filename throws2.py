@@ -29,6 +29,7 @@ def list():
             print(templist)
         all.append(templist)
         print(all)
+        #ivy is cool
 ##  for x in player:
 ##    print("player " + str(x))
 
