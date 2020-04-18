@@ -30,6 +30,7 @@ def list():
         all.append(templist)
         print(all)
         #ivy is cool
+        #so is matt
 ##  for x in player:
 ##    print("player " + str(x))
 
